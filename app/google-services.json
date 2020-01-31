@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "995639508421",
+    "firebase_url": "https://proyectocurso-5d779.firebaseio.com",
+    "project_id": "proyectocurso-5d779",
+    "storage_bucket": "proyectocurso-5d779.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995639508421:android:9ddc3c7de82b045d305fac",
+        "android_client_info": {
+          "package_name": "mx.edu.itsz.proyectocurso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995639508421-cn35fpi1i74me0f1oubceb3ibelaqfv0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.edu.itsz.proyectocurso",
+            "certificate_hash": "5dba96e7c10dc47eb01854832c4afd28b4a5dc9b"
+          }
+        },
+        {
+          "client_id": "995639508421-r5m9b6b8bffq2u79g0190071rt4ucls6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeXJaJpstAmEujtKGq7HLh5KRQ_1Axfik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995639508421-r5m9b6b8bffq2u79g0190071rt4ucls6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
